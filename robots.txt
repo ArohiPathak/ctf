@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /admin/
+Disallow: /backup/
+
+Sitemap: /sitemap.xml
+
+# Temporary exclusions during infrastructure migration.
