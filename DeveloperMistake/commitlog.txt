@@ -1,0 +1,25 @@
+commit 91ab21d
+Author: John Doe
+
+Initial portfolio setup
+
+--------------------------------
+
+commit a91cb73
+Author: John Doe
+
+Added contact page
+
+--------------------------------
+
+commit c8129fa
+Author: John Doe
+
+Fixed mobile layout
+
+--------------------------------
+
+commit e9d123a
+Author: John Doe
+
+Production build
